@@ -10,3 +10,11 @@ A platform that transforms dense study material into accessible, multi-format le
 
 📌 Status
 Prototype for hackathon submission. Documentation and features will be added progressively.
+
+## Demo Screenshots
+
+![Demo1](Screenshot 2026-03-01 225409.png)
+![Demo2](Screenshot 2026-03-01 225838.png)
+![Demo3](Screenshot 2026-03-01 225853.png)
+![Demo4](Screenshot 2026-03-01 225934.png)
+![Demo5](Screenshot 2026-03-01 225954.png)
