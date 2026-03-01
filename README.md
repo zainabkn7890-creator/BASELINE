@@ -1,4 +1,4 @@
-📌Live Demo: https://zainabkn7890-creator.github.io/BASELINE./
+📌Live Demo: https://zainabkn7890-creator.github.io/BASELINE
 
 # BASELINE.
 Soft Read is an AI-powered accessibility-first reading platform that turns study material into voice reading, quizzes, and adaptive learning tools.
